@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-// Simple change for webhook
+
 // Given Two nbits binary strings
 // Return a (n+1)bits binary string that gets the addition of both
 string add_nbits(string num1, string num2){
